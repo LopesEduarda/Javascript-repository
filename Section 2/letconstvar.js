@@ -34,7 +34,3 @@ const birthYear = 1999;
 var job = 'programmer';
 job = 'teacher'
 // although it looks like var and let are very similar, they are very different
-
-
-
-
